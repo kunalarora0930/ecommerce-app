@@ -9,10 +9,6 @@ This is an ecommerce app project built using React and the FakeStore API. The ap
 - Add Products to Cart: Users can add products to their cart by selecting the desired quantity.
 - View Cart and Checkout: Users can view the items in their cart, update quantities, and proceed to checkout to complete the purchase.
 
-## Screenshots
-
-![](https://via.placeholder.com/468x300?text=Screenshot)
-
 
 ## Installation
 
